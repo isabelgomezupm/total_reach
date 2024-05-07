@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
 from datetime import date
-#import plotly
 # import altair as alt
 import matplotlib.pyplot as plt
 from PIL import Image
