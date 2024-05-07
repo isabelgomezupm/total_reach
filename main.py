@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 from datetime import date
-import plotly
+#import plotly
 # import altair as alt
 import matplotlib.pyplot as plt
 from PIL import Image
@@ -9,7 +9,6 @@ from pathlib import Path
 from streamlit_datetime_range_picker import datetime_range_picker
 import datetime
 import math
-import matplotlib.pyplot as plt
 # %matplotlib inline
 
 
