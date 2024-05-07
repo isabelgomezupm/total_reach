@@ -269,7 +269,6 @@ pillow @ file:///C:/b/abs_e22m71t0cb/croot/pillow_1707233126420/work
 pkce @ file:///C:/b/abs_d0z4444tb0/croot/pkce_1690384879799/work
 pkginfo @ file:///C:/b/abs_d18srtr68x/croot/pkginfo_1679431192239/work
 platformdirs @ file:///C:/b/abs_b6z_yqw_ii/croot/platformdirs_1692205479426/work
-plotly @ file:///C:/ci_311/plotly_1676443558683/work
 pluggy @ file:///C:/ci_311/pluggy_1676422178143/work
 ply==3.11
 posthog==3.5.0
